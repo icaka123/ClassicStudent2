@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: d651c4dbf73d58c4b8c3e6ff3e5c5517
+timeCreated: 1510159018
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mg_instructions_0
+    21300002: mg_instructions_1
+    21300004: mg_instructions_2
+    21300006: mg_instructions_3
+    21300008: mg_instructions_4
+    21300010: mg_instructions_5
+    21300012: mg_instructions_6
+    21300014: mg_instructions_7
+    21300016: mg_instructions_8
+    21300018: mg_instructions_9
+    21300020: mg_instructions_10
+    21300022: mg_instructions_11
+    21300024: mg_instructions_12
+    21300026: mg_instructions_13
+    21300028: mg_instructions_14
+    21300030: mg_instructions_15
+    21300032: mg_instructions_16
+    21300034: mg_instructions_17
+    21300036: mg_instructions_18
+    21300038: mg_instructions_19
+    21300040: mg_instructions_20
+    21300042: mg_instructions_21
+    21300044: mg_instructions_22
+    21300046: mg_instructions_23
+    21300048: mg_instructions_24
+    21300050: mg_instructions_25
+    21300052: mg_instructions_26
+    21300054: mg_instructions_27
+    21300056: mg_instructions_28
+    21300058: mg_instructions_29
+    21300060: mg_instructions_30
+    21300062: mg_instructions_31
+    21300064: mg_instructions_32
+    21300066: mg_instructions_33
+    21300068: mg_instructions_34
+    21300070: mg_instructions_35
+    21300072: mg_instructions_36
+    21300074: mg_instructions_37
+    21300076: mg_instructions_38
+    21300078: mg_instructions_39
+    21300080: mg_instructions_40
+    21300082: mg_instructions_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mg_instructions_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1769
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1769
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1843
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1842
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1843
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1842
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1805
+        width: 249
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1545
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1616
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1615
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1615
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1615
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1616
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1573
+        width: 330
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1341
+        width: 549
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 984
+        width: 611
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1170
+        width: 146
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1184
+        width: 101
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1194
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1004
+        width: 135
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1044
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1052
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1058
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 586
+        width: 691
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 753
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 865
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 786
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 781
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 742
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 766
+        width: 28
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 599
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 640
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 647
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 654
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 557
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 308
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 329
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 329
+        width: 82
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 163
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 204
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 211
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mg_instructions_41
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
